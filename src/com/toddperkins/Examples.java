@@ -11,7 +11,8 @@ public class Examples {
 
 	}
 	
-	public example() {
+	public void example() {
+		String str = "Thats all Folks!" ;
 		
 	}
 
