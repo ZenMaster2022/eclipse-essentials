@@ -12,7 +12,7 @@ public class Examples {
 	}
 	
 	public void example() {
-		String str = "Thats all Folks!" ;
+		String str = "Thats all Folks!";
 		
 	}
 
